@@ -1,0 +1,28 @@
+{
+  "name": "helibot",
+  "version": "1.0.0",
+  "description": "Discord bot for helicopter discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramtamtam/helibot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "ramtamtam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramtamtam/helibot/issues"
+  },
+  "homepage": "https://github.com/ramtamtam/helibot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
